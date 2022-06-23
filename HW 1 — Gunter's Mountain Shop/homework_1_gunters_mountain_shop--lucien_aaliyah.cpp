@@ -1,6 +1,5 @@
 /*
 Program: Gunter's Mountain Shop
-Written by Aaliyah Lucien
 Last modified: 05/10/2022 10:38 PM
 This program outputs the names and prices for sales items at Gunter's Mountain Shop.
 */
